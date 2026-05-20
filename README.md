@@ -13,7 +13,7 @@
 
 </div>
 
-*Modeled after real-world platforms like **Flipkart** and **Amazon India***
+*Inspired by marketplace architectures used in large-scale e-commerce platforms*
 
 </div>
 
