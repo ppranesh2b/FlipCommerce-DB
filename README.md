@@ -403,7 +403,6 @@ FlipCommerce-DB/
 *Data Analytics Graduate • Building AI & Data Analytics Projects*
 
 🔗 [LinkedIn](https://www.linkedin.com/in/ppranesh2b) •
-💻 [GitHub](https://github.com/ppranesh2b) •
 📧 [Email](mailto:ppranesh2b@gmail.com)
 
 
