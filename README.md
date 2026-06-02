@@ -299,7 +299,7 @@ Analyzes customer payment preferences and percentage share across payment method
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/1pranesh/FlipCommerce-DB.git
+git clone https://github.com/ppranesh2b/FlipCommerce-DB.git
 cd FlipCommerce-DB
 ```
 
@@ -402,8 +402,8 @@ FlipCommerce-DB/
 **PRANESH P**  
 *Data Analytics Graduate • Building AI & Data Analytics Projects*
 
-🔗 [LinkedIn](https://www.linkedin.com/in/pranesh2b) •
-💻 [GitHub](https://github.com/1pranesh) •
+🔗 [LinkedIn](https://www.linkedin.com/in/ppranesh2b) •
+💻 [GitHub](https://github.com/ppranesh2b) •
 📧 [Email](mailto:ppranesh2b@gmail.com)
 
 
